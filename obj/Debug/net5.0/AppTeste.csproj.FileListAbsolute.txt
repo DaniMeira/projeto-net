@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.exe
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.deps.json
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.runtimeconfig.json
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.runtimeconfig.dev.json
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.dll
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\ref\AppTeste.dll
+C:\Users\User\source\repos\AppTeste\AppTeste\bin\Debug\net5.0\AppTeste.pdb
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.AssemblyInfo.cs
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.dll
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\ref\AppTeste.dll
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.pdb
+C:\Users\User\source\repos\AppTeste\AppTeste\obj\Debug\net5.0\AppTeste.genruntimeconfig.cache
